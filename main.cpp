@@ -1,3 +1,4 @@
+//второй комит
 #include "mainwindow.h"
 #include <QApplication>
 #include <QString>
